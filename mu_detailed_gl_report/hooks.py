@@ -1,8 +1,8 @@
-app_name = "mu_detailed_gl_report"
-app_title = "Mu Detailed General Ledger"
-app_publisher = "Mubtkir"
+app_name = "detailed_gl_report"
+app_title = "Detailed GL Report"
+app_publisher = "Amir"
 app_description = "Detailed General Ledger Report - Line by Line Display"
-app_email = "almubtkir@gmail.com"
+app_email = "amirmasni@gmail.com"
 app_license = "MIT"
 
 # Apps

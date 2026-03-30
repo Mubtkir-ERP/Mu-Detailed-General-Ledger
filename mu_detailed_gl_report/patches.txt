@@ -1,0 +1,2 @@
+# Patches for detailed_gl_report
+# Add patches here as needed
